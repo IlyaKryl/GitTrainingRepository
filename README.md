@@ -65,3 +65,15 @@ git remote remove REPOSITORY_NAME
 git push REMOTE_REPOSITORY_NAME BRANCH_NAME
 
 git clone REMOTE_REPOSITORY_NAME
+
+git branch
+
+git branch BRANCH_NAME
+
+git branch -d BRANCH_NAME
+
+git branch -r
+
+git merge BRANCH_NAME
+
+git pull REMOTE_REPOSITORY_NAME BRANCH_NAME
